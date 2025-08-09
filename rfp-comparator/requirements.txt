@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pdfplumber
+pymupdf
+sentence-transformers
+numpy
+pandas
+openpyxl
+pydantic>=2.5
+pytest
+httpx
+python-multipart
